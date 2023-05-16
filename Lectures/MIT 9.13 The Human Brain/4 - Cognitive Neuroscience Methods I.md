@@ -83,7 +83,10 @@ Steps:
 1. Increase in neural activity
 
 2. Increase in local blood flow more than compensated for O2 use. 
-		Active (active as in fMRI active, not "activity" active) parts of the brain, has less, not more, deoxygenated hemoglobin. This is important because oxygenated and deoxygenated hemoglobin are magnetically different in the way that the MRI signal can see. So the signal we are looking out for is the how much O2 is in the blood at a specific part of the brain, and hence how much blood flow went there, and hence how much neural activity was there.
+		Active (active as in fMRI active, not "activity" active) parts of the brain, has less, not more, deoxygenated hemoglobin. This is important because oxygenated and deoxygenated hemoglobin are magnetically different in the way that the MRI signal can see. So the signal we are looking out for is the how much O2 is in the blood at a specific part of the brain, and hence how much blood flow went there, and hence how much neural activity was there. *Alternative(and better) ChatGPT explanation:*
+		When an area of the brain is active on an fMRI scan, it has more oxygenated blood compared 
+		to the baseline level. The increased neuronal activity in the active region triggers a higher demand for oxygen, leading to an influx of oxygenated blood to that area. This increased blood flow supplies the necessary oxygen and nutrients to support the heightened metabolic demands of the active neurons. As a result, the concentration of oxygenated hemoglobin in the blood within the active region is higher, contributing to the Blood Oxygenation Level Dependent (BOLD) effect observed in fMRI scans.
+	
 	
 3.  Decrease in deO2Hb concentration
 

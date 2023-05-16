@@ -4,27 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "c43934a505b6035f",
+        "id": "2f72501a76af1c06",
         "type": "tabs",
         "children": [
           {
-            "id": "1681b32728b0090a",
+            "id": "30b7187569803dc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glossary.md",
+                "file": "Lectures/MIT 9.13 The Human Brain/4 - Cognitive Neuroscience Methods I.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a08a1719dd4c2702",
+            "id": "0b6cd82503c3222b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/MIT 9.13 The Human Brain/5  - Cognitive Neuroscience Methods 2.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -100,6 +104,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lectures/MIT 9.13 The Human Brain/5  - Cognitive Neuroscience Methods 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,6 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lectures/MIT 9.13 The Human Brain/5  - Cognitive Neuroscience Methods 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,24 +174,28 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a08a1719dd4c2702",
+  "active": "0b6cd82503c3222b",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20230517032156.png",
     "Lectures/MIT 9.13 The Human Brain/4 - Cognitive Neuroscience Methods I.md",
     "Lectures/MIT 9.13 The Human Brain/2 - Neuroanatomy.md",
-    "Glossary.md",
-    "Untitled.canvas",
-    "Attachments/Pasted image 20230406015500.png",
-    "Attachments/Pasted image 20230406015238.png",
-    "Attachments/Pasted image 20230406014324.png",
-    "Attachments/Pasted image 20230406005335.png",
-    "Attachments/Pasted image 20230406005236.png",
-    "Attachments/Pasted image 20230406003923.png",
+    "Lectures/MIT 9.13 The Human Brain/5  - Cognitive Neuroscience Methods 2.md",
+    "Attachments/Pasted image 20230517030135.png",
+    "Attachments/Pasted image 20230517030114.png",
+    "Attachments/Pasted image 20230517025644.png",
+    "Attachments/Pasted image 20230517024745.png",
+    "Attachments/Pasted image 20230517023757.png",
+    "Attachments/Pasted image 20230517022537.png",
+    "Attachments/Pasted image 20230517022527.png",
+    "Attachments/Pasted image 20230517021814.png",
+    "Attachments/Pasted image 20230517020731.png",
+    "Attachments/Pasted image 20230517015914.png",
     "Lectures/MIT 9.13 The Human Brain/1 - Introduction to Human Brain.md",
+    "Glossary.md",
+    "Untitled.md",
+    "Untitled.canvas",
     "Topics.md",
-    "Attachments/Pasted image 20220227172924.png",
-    "Attachments/Pasted image 20220227023944.png",
     "Something.md",
-    "Pasted.md",
-    "Attachments/Pasted image 20220227033310.png"
+    "Pasted.md"
   ]
 }
